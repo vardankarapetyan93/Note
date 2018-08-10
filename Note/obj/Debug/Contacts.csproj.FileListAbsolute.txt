@@ -1,0 +1,8 @@
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\Note\Note\bin\Debug\Note.exe.config
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\Note\Note\obj\Debug\Note.exe
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\Note\Note\obj\Debug\Note.pdb
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\Note\Note\bin\Debug\Note.exe
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\Note\Note\bin\Debug\Note.pdb
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\Note\Note\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\Note\Note\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\Note\Note\obj\Debug\Contacts.csprojResolveAssemblyReference.cache

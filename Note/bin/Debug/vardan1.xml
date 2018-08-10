@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfContact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contact>
+    <Name>a</Name>
+    <Surname>a</Surname>
+    <Phone>
+      <string>2</string>
+    </Phone>
+    <Email>
+      <string>1</string>
+    </Email>
+  </Contact>
+  <Contact>
+    <Name>Karen</Name>
+    <Surname>Hakobyan</Surname>
+    <Phone>
+      <string>+37498521463</string>
+    </Phone>
+    <Email>
+      <string />
+    </Email>
+  </Contact>
+</ArrayOfContact>
